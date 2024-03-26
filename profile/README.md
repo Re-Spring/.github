@@ -9,7 +9,8 @@
 </p>
 
 ## 🎤 프로젝트
-AI를 활용한 동화 생성과 인공지능 및 부모 목소리를 이용한 더빙을 통해 육아 및 아이들의 성장을 도와주는 서비스
+
+>AI를 활용한 동화 생성과 인공지능 및 부모 목소리를 이용한 더빙을 통해 육아 및 아이들의 성장을 도와주는 서비스
 
 ## 🎬 시연 영상
 
@@ -17,9 +18,10 @@ AI를 활용한 동화 생성과 인공지능 및 부모 목소리를 이용한 
 </br>
 
 ## 💡주요 기능 소개
-- 목소리 등록
 
-- 동화 생성
+> 🎙️ 목소리 등록
+
+> 📖 동화 생성
 
 
 ## 🧑‍🤝‍🧑 팀원 소개
@@ -27,9 +29,13 @@ AI를 활용한 동화 생성과 인공지능 및 부모 목소리를 이용한 
 
 > 
 					
-| <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | 
+| <div align="center">![image](https://github.com/Re-Spring/.github/assets/137472733/389b07fa-8f3a-484d-ab51-95739c6051ce)
+</div> | <div align="center">![image](https://github.com/Re-Spring/.github/assets/137472733/e8fb29b7-eda4-44f6-862c-01225a5f8b62)
+</div> | <div align="center">![image](https://github.com/Re-Spring/.github/assets/137472733/14d9e2ac-beb8-4f94-818f-ac61240f8e83)
+</div> | <div align="center">![image](https://github.com/Re-Spring/.github/assets/137472733/82cb58a7-ef7d-4146-aede-33db3b3d462d)
+</div> | <div align="center"></div> | 
 | ----- | ------- | ------ | ------- | ------ |
-| <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> |
+| <div align="center">박지영</div> | <div align="center">이선호</div> | <div align="center">조현진</div> | <div align="center">이동주</div> | <div align="center">신주현</div> |
 | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> |
 
 </br>
