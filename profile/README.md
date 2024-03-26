@@ -29,9 +29,10 @@
 
 > 
 					
-| ![image](https://github.com/Re-Spring/.github/assets/137472733/389b07fa-8f3a-484d-ab51-95739c6051ce) | ![image](https://github.com/Re-Spring/.github/assets/137472733/e8fb29b7-eda4-44f6-862c-01225a5f8b62) | ![image](https://github.com/Re-Spring/.github/assets/137472733/14d9e2ac-beb8-4f94-818f-ac61240f8e83) | ![image](https://github.com/Re-Spring/.github/assets/137472733/82cb58a7-ef7d-4146-aede-33db3b3d462d) |  |
+| <img src="https://github.com/Re-Spring/.github/assets/137472733/389b07fa-8f3a-484d-ab51-95739c6051ce" width="200" height="200" /> | <img src="https://github.com/Re-Spring/.github/assets/137472733/e8fb29b7-eda4-44f6-862c-01225a5f8b62" width="200" height="200" /> | <img src="https://github.com/Re-Spring/.github/assets/137472733/14d9e2ac-beb8-4f94-818f-ac61240f8e83" width="200" height="200" /> | <img src="https://github.com/Re-Spring/.github/assets/137472733/82cb58a7-ef7d-4146-aede-33db3b3d462d" width="200" height="200" /> |  |
 | :---: | :---: | :---: | :---: | :---: |
 | 박지영 | 이선호 | 조현진 | 이동주 | 신주현 |
+
 
 </br>
 
