@@ -10,7 +10,13 @@
 	</kbd>
 	<br/><br/>
 	<p>하이미디어 아카데미 인공지능(AI-X) 프로젝트 부트캠프 3기</p>
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRe-Spring&count_bg=%23FFAAF9&title_bg=%238ED688&icon=&icon_color=%23E7E7E7&title=welcome&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
+
+
+
 
 <br/>
 
@@ -23,9 +29,10 @@
 
 ## 👩🏻‍💻👨🏻‍💻 We Are Re:Spring!
 
-| <img src="https://github.com/Re-Spring/.github/assets/137472733/389b07fa-8f3a-484d-ab51-95739c6051ce" width="150" height="150" /> | <img src="https://github.com/Re-Spring/.github/assets/137472733/e8fb29b7-eda4-44f6-862c-01225a5f8b62" width="150" height="150" /> | <img src="https://github.com/Re-Spring/.github/assets/137472733/14d9e2ac-beb8-4f94-818f-ac61240f8e83" width="150" height="150" /> | <img src="https://github.com/Re-Spring/.github/assets/137472733/82cb58a7-ef7d-4146-aede-33db3b3d462d" width="150" height="150" /> |  |
+| <img src="https://github.com/Re-Spring/.github/assets/137472733/389b07fa-8f3a-484d-ab51-95739c6051ce" width="129" height="129" /> | <img src="https://github.com/Re-Spring/.github/assets/137472733/e8fb29b7-eda4-44f6-862c-01225a5f8b62" width="129" height="129" /> | <img src="https://github.com/Re-Spring/.github/assets/137472733/14d9e2ac-beb8-4f94-818f-ac61240f8e83" width="129" height="129" /> | <img src="https://github.com/Re-Spring/.github/assets/137472733/82cb58a7-ef7d-4146-aede-33db3b3d462d" width="129" height="129" /> | <img src="https://github.com/Re-Spring/.github/assets/140992400/d719a258-b984-40b2-a9ea-375686ae8f96" width="129" height="129" /> |
 | :---: | :---: | :---: | :---: | :---: |
 | 박지영 | 이선호 | 조현진 | 이동주 | 신주현 |
+| 팀장 | 형상관리 | 기록담당 | 부팀장 | 환경정리 |
 |   [@jiyeong08](https://github.com/jiyeong08)   |    [@Aiden](https://github.com/08166)  |  [@bockson](https://github.com/bockson) | [@ezzzzdev](https://github.com/ezzzzdev)  | [@RufusVein](https://github.com/RufusVein)  |
 
 <br/>
