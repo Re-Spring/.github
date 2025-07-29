@@ -33,7 +33,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 | 박지영 | 이선호 | 조현진 | 이동주 | 신주현 |
 | 팀장 | 형상관리 | 기록담당 | 부팀장 | 환경정리 |
-|   [@jiyeong08](https://github.com/jiyeong08)   |    [@Aiden](https://github.com/08166)  |  [@bockson](https://github.com/bockson) | [@ezzzzdev](https://github.com/ezzzzdev)  | [@RufusVein](https://github.com/RufusVein)  |
+|   [@jiyeong08](https://github.com/jiyeong08)   |    [@08166](https://github.com/08166)  |  [@bockson](https://github.com/bockson) | [@ezzzzdev](https://github.com/ezzzzdev)  | [@RufusVein](https://github.com/RufusVein)  |
 
 <br/>
 
